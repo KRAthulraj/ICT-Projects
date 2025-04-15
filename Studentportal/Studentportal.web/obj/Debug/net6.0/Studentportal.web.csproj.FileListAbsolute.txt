@@ -1,0 +1,147 @@
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\appsettings.Development.json
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\appsettings.json
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.staticwebassets.runtime.json
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.exe
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.deps.json
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.runtimeconfig.json
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.pdb
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.csproj.AssemblyReference.cache
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.AssemblyInfoInputs.cache
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.AssemblyInfo.cs
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.csproj.CoreCompileInputs.cache
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.MvcApplicationPartsAssemblyInfo.cache
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.RazorAssemblyInfo.cache
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.RazorAssemblyInfo.cs
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\scopedcss\bundle\Studentportal.web.styles.css
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\scopedcss\projectbundle\Studentportal.web.bundle.scp.css
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\refint\Studentportal.web.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.pdb
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.genruntimeconfig.cache
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\ref\Studentportal.web.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Humanizer.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ASPNET 8 MVC CRUD\Student portal\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.csproj.CopyComplete
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\appsettings.Development.json
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\appsettings.json
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.staticwebassets.runtime.json
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.exe
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.deps.json
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.runtimeconfig.json
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Studentportal.web.pdb
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Humanizer.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Collections.Immutable.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.csproj.AssemblyReference.cache
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.AssemblyInfoInputs.cache
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.AssemblyInfo.cs
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.csproj.CoreCompileInputs.cache
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.MvcApplicationPartsAssemblyInfo.cache
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.RazorAssemblyInfo.cache
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.RazorAssemblyInfo.cs
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\staticwebassets.build.json
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\staticwebassets.development.json
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\staticwebassets\msbuild.Studentportal.web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\staticwebassets\msbuild.build.Studentportal.web.props
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Studentportal.web.props
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Studentportal.web.props
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\scopedcss\bundle\Studentportal.web.styles.css
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\scopedcss\projectbundle\Studentportal.web.bundle.scp.css
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.csproj.CopyComplete
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\refint\Studentportal.web.dll
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.pdb
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\Studentportal.web.genruntimeconfig.cache
+F:\Athul\ICT projects\Studentportal\Studentportal.web\obj\Debug\net6.0\ref\Studentportal.web.dll
