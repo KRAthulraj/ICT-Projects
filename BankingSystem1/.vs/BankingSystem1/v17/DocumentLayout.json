@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\addaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\bankingsystem1\\getdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\getdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\bankingsystem1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\bankingsystem1\\transactiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\transactiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\transactiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\transactiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\deposit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\deposit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\withdrawal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\withdrawal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\customerprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\customerprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\editaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\editaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\deleteaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\deleteaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\userhomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\userhomepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\bankingsystem1\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\bankingsystem1\\withdrawal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\withdrawal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\withdrawal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\withdrawal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\dj4rgbnx..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\getdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\getdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|c:\\users\\jerry\\onedrive\\desktop\\.net\\bankingsystem\\bankingsystem1\\bankingsystem1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260C7BB-1A39-4642-82AE-FED70044D6A0}|BankingSystem1\\BankingSystem1.csproj|solutionrelative:bankingsystem1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\GetDetails.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\GetDetails.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\GetDetails.cs [Design]",
+              "RelativeToolTip": "BankingSystem1\\GetDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:20:42.597Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\AddAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\AddAccount.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\AddAccount.cs [Design]",
+              "RelativeToolTip": "BankingSystem1\\AddAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:01:36.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\HomePage.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\HomePage.Designer.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\HomePage.Designer.cs",
+              "RelativeToolTip": "BankingSystem1\\HomePage.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:02:15.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deposit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Deposit.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\Deposit.Designer.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Deposit.Designer.cs",
+              "RelativeToolTip": "BankingSystem1\\Deposit.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwv3UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:49:10.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddAccount.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\AddAccount.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\AddAccount.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\AddAccount.cs",
+              "RelativeToolTip": "BankingSystem1\\AddAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:22:02.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Form2.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\Form2.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Form2.cs [Design]",
+              "RelativeToolTip": "BankingSystem1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:20:29.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Withdrawal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Withdrawal.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\Withdrawal.Designer.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Withdrawal.Designer.cs",
+              "RelativeToolTip": "BankingSystem1\\Withdrawal.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwv3wAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:48:41.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerProfile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\CustomerProfile.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\CustomerProfile.Designer.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\CustomerProfile.Designer.cs",
+              "RelativeToolTip": "BankingSystem1\\CustomerProfile.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwv2IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:48:03.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\TransactionDetails.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\TransactionDetails.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem1\\BankingSystem1\\TransactionDetails.cs [Design]",
+              "RelativeToolTip": "..\\..\\BankingSystem1\\BankingSystem1\\TransactionDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:04:00.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionDetails.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\TransactionDetails.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\TransactionDetails.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\TransactionDetails.cs",
+              "RelativeToolTip": "BankingSystem1\\TransactionDetails.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAIAwwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:07:29.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditAccount.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\EditAccount.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\EditAccount.Designer.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\EditAccount.Designer.cs",
+              "RelativeToolTip": "BankingSystem1\\EditAccount.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwv4sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:47:36.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteAccount.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\DeleteAccount.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\DeleteAccount.Designer.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\DeleteAccount.Designer.cs",
+              "RelativeToolTip": "BankingSystem1\\DeleteAccount.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwv14AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:46:59.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserHomepage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\UserHomepage.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\UserHomepage.Designer.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\UserHomepage.Designer.cs",
+              "RelativeToolTip": "BankingSystem1\\UserHomepage.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwv4QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:46:25.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Form2.Designer.cs",
+              "RelativeToolTip": "BankingSystem1\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:45:16.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Form1.Designer.cs",
+              "RelativeToolTip": "BankingSystem1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwv3kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:44:15.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserHomepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\UserHomepage.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\UserHomepage.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem1\\BankingSystem1\\UserHomepage.cs [Design]",
+              "RelativeToolTip": "..\\..\\BankingSystem1\\BankingSystem1\\UserHomepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:06:42.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Withdrawal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Withdrawal.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\Withdrawal.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Withdrawal.cs [Design]",
+              "RelativeToolTip": "BankingSystem1\\Withdrawal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:55:05.507Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Deposit.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\Deposit.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Deposit.cs",
+              "RelativeToolTip": "BankingSystem1\\Deposit.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAASwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:15:13.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\HomePage.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\HomePage.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\HomePage.cs",
+              "RelativeToolTip": "BankingSystem1\\HomePage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:02:49.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Withdrawal.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Withdrawal.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\Withdrawal.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Withdrawal.cs",
+              "RelativeToolTip": "BankingSystem1\\Withdrawal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:58:02.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\CustomerProfile.cs",
+              "RelativeToolTip": "BankingSystem1\\CustomerProfile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:43:55.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserHomepage.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\UserHomepage.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\UserHomepage.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\UserHomepage.cs",
+              "RelativeToolTip": "BankingSystem1\\UserHomepage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:33:32.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dj4rgbnx..sql",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\dj4rgbnx..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\HP\\AppData\\Local\\Temp\\dj4rgbnx..sql",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\dj4rgbnx..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HP\\AppData\\Local\\Temp\\dj4rgbnx..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-14T16:25:42.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetDetails.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\GetDetails.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\GetDetails.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\GetDetails.cs",
+              "RelativeToolTip": "BankingSystem1\\GetDetails.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vzQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:20:58.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Form2.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\Form2.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Form2.cs",
+              "RelativeToolTip": "BankingSystem1\\Form2.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vyYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:20:34.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Form1.cs",
+              "RelativeDocumentMoniker": "BankingSystem1\\Form1.cs",
+              "ToolTip": "C:\\Users\\jerry\\OneDrive\\Desktop\\.Net\\BankingSystem\\BankingSystem1\\BankingSystem1\\Form1.cs",
+              "RelativeToolTip": "BankingSystem1\\Form1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:22:02.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
