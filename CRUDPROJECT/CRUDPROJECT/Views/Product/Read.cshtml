@@ -1,0 +1,31 @@
+﻿@model IEnumerable<CRUDPROJECT.Models.Product>
+
+<h2>Product List</h2>
+<table class="table" border="2">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Product Name</th>
+            <th>Product Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+               <td>
+                     <form method="get" action="/Product/Edit/@product.Id" style="display: inline;">
+                     <button type="submit" class="btn btn-primary">Edit</button>
+                     </form>
+                    <form method="get" action="/Product/Delete/@product.Id" style="display: inline;">
+                    <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+               </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
