@@ -1,0 +1,653 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\riljo\\ICT-Projects\\BankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\transaction_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\transaction_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\transaction_details.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\transaction_details.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\form_2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\form_2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\form_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\form_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\form_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\form_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\user_home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\user_home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\transaction_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\transaction_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\get_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\get_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\withdrawal_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\withdrawal_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\withdrawal_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\withdrawal_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\withdrawal_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\withdrawal_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\user_home_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\user_home_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\user_home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\user_home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\home_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\home_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\home_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\get_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\get_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\get_details.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\get_details.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\edit_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\edit_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\edit_account.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\edit_account.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\edit_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\edit_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\delete_account.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\delete_account.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\delete_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\delete_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\customer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\customer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\deposit_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\deposit_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\customer_profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\customer_profile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\deposit_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\deposit_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\deposit_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\deposit_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\customer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\customer_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\add_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\add_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\delete_account.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\delete_account.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\delete_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\delete_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\add_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\add_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|d:\\riljo\\ict-projects\\bankingsystem\\bankingsystem\\add_account.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3392DB67-7BC2-4690-9A12-6F49E5967325}|BankingSystem\\BankingSystem.csproj|solutionrelative:bankingsystem\\add_account.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Program.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Program.cs",
+              "RelativeToolTip": "BankingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:24:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_2.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form_2.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Form_2.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form_2.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Form_2.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:19:07.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_2.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form_2.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Form_2.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form_2.cs",
+              "RelativeToolTip": "BankingSystem\\Form_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:17:28.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_2.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form_2.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Form_2.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form_2.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Form_2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:17:18.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction_Details.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Transaction_Details.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Transaction_Details.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Transaction_Details.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Transaction_Details.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:11:29.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction_Details.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Transaction_Details.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Transaction_Details.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Transaction_Details.cs",
+              "RelativeToolTip": "BankingSystem\\Transaction_Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:11:23.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction_Details.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Transaction_Details.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Transaction_Details.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Transaction_Details.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Transaction_Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:11:17.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Withdrawal_Page.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Withdrawal_Page.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Withdrawal_Page.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Withdrawal_Page.cs",
+              "RelativeToolTip": "BankingSystem\\Withdrawal_Page.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:07:54.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Withdrawal_Page.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Withdrawal_Page.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Withdrawal_Page.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Withdrawal_Page.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Withdrawal_Page.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:07:42.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Withdrawal_Page.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Withdrawal_Page.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Withdrawal_Page.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Withdrawal_Page.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Withdrawal_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:07:32.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User_Home_Page.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\User_Home_Page.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\User_Home_Page.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\User_Home_Page.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\User_Home_Page.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:05:45.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User_Home_Page.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\User_Home_Page.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\User_Home_Page.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\User_Home_Page.cs",
+              "RelativeToolTip": "BankingSystem\\User_Home_Page.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:04:05.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User_Home_Page.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\User_Home_Page.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\User_Home_Page.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\User_Home_Page.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\User_Home_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:04:01.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Form1.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form1.cs",
+              "RelativeToolTip": "BankingSystem\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwFQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:00:46.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Form1.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:00:34.861Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Form1.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:00:17.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Home_Page.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Home_Page.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Home_Page.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Home_Page.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Home_Page.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:58:13.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home_Page.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Home_Page.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Home_Page.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Home_Page.cs",
+              "RelativeToolTip": "BankingSystem\\Home_Page.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:57:32.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Home_Page.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Home_Page.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Home_Page.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Home_Page.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Home_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:57:28.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Get_Details.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Get_Details.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Get_Details.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Get_Details.cs",
+              "RelativeToolTip": "BankingSystem\\Get_Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:55:05.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Get_Details.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Get_Details.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Get_Details.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Get_Details.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Get_Details.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:54:49.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Get_Details.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Get_Details.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Get_Details.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Get_Details.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Get_Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:54:31.969Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit_Account.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Edit_Account.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Edit_Account.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Edit_Account.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Edit_Account.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:52:42.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit_Account.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Edit_Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Edit_Account.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Edit_Account.cs",
+              "RelativeToolTip": "BankingSystem\\Edit_Account.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA+wBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:52:22.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit_Account.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Edit_Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Edit_Account.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Edit_Account.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Edit_Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:52:10.088Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete_Account.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Delete_Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Delete_Account.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Delete_Account.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Delete_Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:51:13.582Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Deposit_Page.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Deposit_Page.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Deposit_Page.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Deposit_Page.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Deposit_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:50:30.467Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Customer_Profile.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Customer_Profile.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Customer_Profile.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Customer_Profile.cs",
+              "RelativeToolTip": "BankingSystem\\Customer_Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:30:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Customer_Profile.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Customer_Profile.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Customer_Profile.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Customer_Profile.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Customer_Profile.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:31:05.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete_Account.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Delete_Account.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Delete_Account.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Delete_Account.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Delete_Account.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:32:53.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Deposit_Page.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Deposit_Page.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Deposit_Page.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Deposit_Page.cs",
+              "RelativeToolTip": "BankingSystem\\Deposit_Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:44:24.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Deposit_Page.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Deposit_Page.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Deposit_Page.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Deposit_Page.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Deposit_Page.Designer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAG0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:43:48.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Customer_Profile.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Customer_Profile.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Customer_Profile.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Customer_Profile.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Customer_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:29:30.553Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete_Account.resx",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Delete_Account.resx",
+              "RelativeDocumentMoniker": "BankingSystem\\Delete_Account.resx",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Delete_Account.resx",
+              "RelativeToolTip": "BankingSystem\\Delete_Account.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-13T13:37:21.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Add_Account.cs [Design]",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Add_Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Add_Account.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Add_Account.cs [Design]",
+              "RelativeToolTip": "BankingSystem\\Add_Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:21:36.189Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete_Account.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Delete_Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Delete_Account.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Delete_Account.cs",
+              "RelativeToolTip": "BankingSystem\\Delete_Account.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:37:27.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Add_Account.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Add_Account.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Add_Account.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Add_Account.cs",
+              "RelativeToolTip": "BankingSystem\\Add_Account.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:25:23.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Add_Account.Designer.cs",
+              "DocumentMoniker": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Add_Account.Designer.cs",
+              "RelativeDocumentMoniker": "BankingSystem\\Add_Account.Designer.cs",
+              "ToolTip": "D:\\riljo\\ICT-Projects\\BankingSystem\\BankingSystem\\Add_Account.Designer.cs",
+              "RelativeToolTip": "BankingSystem\\Add_Account.Designer.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAALEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:21:43.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
